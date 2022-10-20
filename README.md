@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating projects for Frontend both UI/UX oriented and a display of ReactJS
-- 🌱 I’m currently learning ReactJS and Angular
+- 🔭 I’m currently working on creating projects for Frontend both UI/UX oriented and a display of my ReactJS skills
+- 🌱 I’m currently learning Java and SpringBoot
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
